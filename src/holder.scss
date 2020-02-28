@@ -1,0 +1,18 @@
+
+.paciente-cero {
+  height: 254px;
+  width: 254px;
+  border: 1px solid gray;
+  border-radius: 8px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .corona-virus {
+    img {
+      height: 64px;
+      width: auto;
+    }
+  }
+}
